@@ -6,7 +6,7 @@ export default defineConfig({
         laravel({
             input: [
                 'resources/js/components/game.css',
-                'resources/js/components/main.ts',
+                'resources/js/components/app.ts',
             ],
             refresh: true,
         }),
